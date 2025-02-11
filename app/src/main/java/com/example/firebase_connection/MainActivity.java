@@ -1,5 +1,5 @@
 package com.example.firebase_connection;
-//th
+//thanks
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
